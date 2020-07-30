@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 Harshit Kesar
+Copyright (c) 2020 Harshit Kesar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
